@@ -31,11 +31,6 @@ Ensure you have the following installed:
    cd pallier-crypto-system
    ```
 
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ## Usage
@@ -67,17 +62,12 @@ Ensure you have the following installed:
 
 ## Files
 
-- **`pallier.ipynb`**: Jupyter notebook containing the implementation and examples.
+- **`paillier.ipynb`**: Jupyter notebook containing the implementation and examples.
 - **`README.md`**: Documentation for the project.
 - **`.gitignore`**: Excludes unnecessary files from version control.
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Contributing
 
@@ -87,4 +77,4 @@ Contributions are welcome! Please submit a pull request or open an issue to sugg
 
 ## Acknowledgments
 
-The implementation is based on the paper by Pascal Paillier (1999).
+The implementation is based on the [paper](https://www.cs.tau.ac.il/~fiat/crypt07/papers/Pai99pai.pdf) by Pascal Paillier (1999). 
